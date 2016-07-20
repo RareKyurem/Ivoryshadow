@@ -107,7 +107,9 @@ li {
   position: fixed;
   padding: 0 10px;
 }
-
+#disqus_thread {
+    width: 50%;
+}
 h1 {
   text-align: left;
   position: fixed;
