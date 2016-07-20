@@ -110,8 +110,7 @@ li {
 #disqus_thread {
     width: 50%;
     text-align: center;
-    position:relative;
-    right: 300px;
+    padding:1000px;
 }
 h1 {
   text-align: left;
