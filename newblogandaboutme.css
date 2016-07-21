@@ -156,4 +156,12 @@ div.pictures {
   background-color: #000000;
   border-left: 5px solid white;
   height: 300px;
+.maintext {
+width: 100%;
+    overflow: hidden;
+    margin: auto;
+    padding: 5px;
+   text-align: left;
+  line-height: 25px;
+  font-size: 17px;
 }
