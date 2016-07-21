@@ -109,7 +109,7 @@ a:hover {
  text-decoration: underline;
 }
 div.pictures {
-  position: relative;
-  left: 620px;
-  top: 10px;
+  position: fixed;
+  right: 10px;
+  bottom: 0px;
 }
