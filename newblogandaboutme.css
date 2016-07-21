@@ -147,11 +147,7 @@ div.pictures {
   bottom: 0px;
 }
 @media only screen and (max-device-width: 400px) {
-          h1 {
-  text-align: left;
-  position: fixed;
-  left: 10px;
-  top: -10px;
-  color: blue;
+ .maintext {
+  font-size: 40px;
 }
 }
