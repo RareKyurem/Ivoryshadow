@@ -111,7 +111,10 @@ li {
     width: 50%;
     text-align: center;
     margin: 0px 320px 0px 320px;
-    color: #FFFFFF;
+    color: white;
+}
+a {
+  color: white;
 }
 h1 {
   text-align: left;
