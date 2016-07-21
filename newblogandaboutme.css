@@ -8,6 +8,9 @@ img.pictureinsert {
     color: black;
 }
 #dsq-content { color: #FFFFFF !important; }
+.dsq-full-comment { color: #ffffff !important; } /*for Narcissus theme users*/
+
+.dsq-comment-body { color: #ffffff !important; } /*for Houdini theme users*/
 .dropdown {
     position: relative;
     display: inline-block;
