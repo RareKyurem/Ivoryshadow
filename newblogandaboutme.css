@@ -147,7 +147,9 @@ div.pictures {
   bottom: 0px;
 }
 @media only screen and (max-device-width: 400px) {
- .maintext {
-  font-size: 40px;
+div.pictures {
+  position: fixed;
+  right: 10px;
+  bottom: 50px;
 }
 }
