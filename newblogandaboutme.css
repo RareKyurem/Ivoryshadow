@@ -146,7 +146,7 @@ div.pictures {
   right: 10px;
   bottom: 0px;
 }
-@media only screen and (min-device-width: 350px) {
+@media only screen and (max-device-width: 400px) {
           h1 {
   text-align: left;
   position: fixed;
