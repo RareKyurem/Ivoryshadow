@@ -158,3 +158,19 @@ p {
 .post-message {
    color:white;
 }
+.post-content .post-message p:last-child {
+    margin: 0;
+}
+.post-content .post-message p {
+    line-height: 21px;
+    margin: 0 0 15px;
+}
+h3, p {
+    color:white;
+}
+a, abbr, acronym, address, blockquote, button, caption, cite, code, dd, del, dfn, dl, dt, em, fieldset, form, h1, h2, h3, h4, h5, h6, img, label, legend, li, ol, p, pre, q, s, samp, small, strike, strong, sub, sup, table, tbody, td, tfoot, th, thead, tr, tt, ul, var {
+color:white;
+}
+.btn-block, .input-block-level {
+    color:white;
+}
