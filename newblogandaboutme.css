@@ -7,10 +7,6 @@ img.pictureinsert {
 .dropbtn {
     color: black;
 }
-#dsq-content { color: #FFFFFF !important; }
-.dsq-full-comment { color: #ffffff !important; } /*for Narcissus theme users*/
-
-.dsq-comment-body { color: #ffffff !important; } /*for Houdini theme users*/
 .dropdown {
     position: relative;
     display: inline-block;
@@ -155,5 +151,8 @@ div.pictures {
 }
 
 a, abbr, acronym, address, blockquote, button, caption, cite, code, dd, del, dfn, dl, dt, em, fieldset, form, h1, h2, h3, h4, h5, h6, img, label, legend, li, ol, p, pre, q, s, samp, small, strike, strong, sub, sup, table, tbody, td, tfoot, th, thead, tr, tt, ul, var {
+    color: white;
+}
+.post-content .post-message p:last-child {
     color: white;
 }
