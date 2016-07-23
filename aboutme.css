@@ -147,7 +147,7 @@ a:hover {
 div.pictures {
   position: fixed;
   right: 10px;
-  bottom: 5px;
+  bottom: -20px;
 }
 h3 {
   color:white;
