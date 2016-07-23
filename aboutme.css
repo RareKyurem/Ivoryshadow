@@ -4,8 +4,8 @@ img.pictureinsert {
   border: 5px solid #FFFFFF;
   background-image: url('http://tse1.mm.bing.net/th?&id=OIP.M50e97f47972ef3bc792015763042c3a8o0&w=300&h=200&c=0&pid=1.9&rs=0&p=0&r=0');
 }  
-.dropbtn {
-    color: black;
+h3 {
+  color: white;
 }
 .dropdown {
     position: relative;
@@ -77,7 +77,7 @@ background-color: #808080
 h2.title {
   text-align: center;
   position: fixed;
-  left: 560px;
+  left: 40.75%;
   top: -2.5px;
   color: white;
 }
@@ -107,7 +107,15 @@ li {
   position: fixed;
   padding: 0 10px;
 }
-
+#disqus_thread {
+    width: 50%;
+    text-align: center;
+    margin: 0px 320px 0px 320px;
+    color: white;
+}
+a {
+  color: white;
+}
 h1 {
   text-align: left;
   position: fixed;
@@ -137,8 +145,10 @@ a:hover {
  text-decoration: underline;
 }
 div.pictures {
-  position: relative;
-  left: 620px;
-  top: 40px;
-
-
+  position: fixed;
+  right: 10px;
+  bottom: 0px;
+}
+h3 {
+  color:white;
+}
