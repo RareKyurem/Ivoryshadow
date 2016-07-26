@@ -1,3 +1,4 @@
+@media handheld {
 img.pictureinsert {
   position: relative;
   right: 190px;
@@ -154,4 +155,5 @@ div.pictures {
 }
 h3 {
   color:white;
+}
 }
