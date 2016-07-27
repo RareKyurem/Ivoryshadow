@@ -30,11 +30,9 @@ h3 {
   position: relative;
   left: 19%;
   border-left: 5px solid #FFFFFF;
-  z-index: 3;
 }
 .dropdown-content a:hover {
 background-color: #808080
-z-index: 4;
 }
 .dropdown:hover .dropdown-content {
     display: block;
