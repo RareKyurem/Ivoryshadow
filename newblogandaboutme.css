@@ -19,8 +19,7 @@ h3 {
     background-color: black;
     min-width: 182px;
     border-left: 5px solid #FFFFFF;
-    z-index: 3;
-    background-image: url('https://cms-images.idgesg.net/images/article/2015/11/black-100630491-orig.jpg');
+
 }
 .dropdown-content a {
     color: black;
