@@ -5,6 +5,7 @@ img.pictureinsert {
   z-index: 1;
   float: left;
   padding: -30px;
+      right: -542px;
 }  
 h3 {
   color: white;
