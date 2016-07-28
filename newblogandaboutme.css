@@ -5,7 +5,7 @@ img.pictureinsert {
   z-index: 1;
   float: left;
   padding: 5px 5px 5px 0px;
-      right: -320px;
+  right: -320px;
 }  
 h3 {
   color: white;
@@ -78,6 +78,8 @@ background-color: #808080
    text-align: left;
   line-height: 25px;
   font-size: 17px;
+  position: relative;
+    right: -9.5%;
 }
 .caption {
   font-style: italic;
