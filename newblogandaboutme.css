@@ -13,6 +13,9 @@ a.smallfont {
   color: white;
   text-decoration: none;
 }
+a.smallfont: hover {
+  text-decoration: none;
+}
 img.likethis {
     position: relative;
     left: -3%;
