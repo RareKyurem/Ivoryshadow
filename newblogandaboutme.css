@@ -8,6 +8,11 @@ img.pictureinsert {
 h3 {
   color: white;
 }
+a.smallfont {
+  font-size: 3px;
+  color: white;
+  text-decoration: none;
+}
 img.likethis {
     position: relative;
     left: -3%;
