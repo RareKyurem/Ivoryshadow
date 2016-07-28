@@ -10,6 +10,8 @@ h3 {
 }
 a.smallfont {
   font-size: 3px;
+  color: white;
+  text-decoration: none;
 }
 img.likethis {
     position: relative;
