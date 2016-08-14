@@ -20,7 +20,8 @@ h3 {
     border-left: 5px solid #FFFFFF;
 }
 .dropdown-content a {
-    color: black;
+    background-image:
+  url('https://cms-images.idgesg.net/images/article/2015/11/black-100630491-orig.jpg');
     padding: 12px 16px;
     text-decoration: none;
     display: block;
