@@ -32,6 +32,7 @@ h3 {
 }
 .dropdown-content a:hover {
 background-color: #808080
+z-index:10;
 }
 .dropdown:hover .dropdown-content {
     display: block;
