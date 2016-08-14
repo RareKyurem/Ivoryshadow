@@ -27,7 +27,7 @@ h3 {
     display: block;
   text-align: left;
   position: relative;
-  left: 43%;
+  left: 33.5%;
   border-left: 5px solid #FFFFFF;
 }
 .dropdown-content a:hover {
@@ -79,7 +79,7 @@ background-color: #808080
 h2.title {
   text-align: center;
   position: fixed;
-  left: 33.5%;
+  left: 43%;
   top: -2.5px;
   color: white;
 }
