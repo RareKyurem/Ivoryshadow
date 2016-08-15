@@ -1,4 +1,4 @@
-img.pictureinsert {
+img#pictureinsert {
   position: relative;
   right: 100px;
   border: 5px solid #FFFFFF;
