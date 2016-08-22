@@ -1,3 +1,9 @@
+.dropdown:hover .dropdown-content {
+    display: block;
+  position: relative;
+  right: 549px;
+  top: 68px;
+}
 img#pictureinsertleft {
   position: relative;
   left: -0.25%;
