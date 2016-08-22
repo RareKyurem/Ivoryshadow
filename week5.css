@@ -5,9 +5,17 @@ img#pictureinsertleft {
   background-image: url('http://tse1.mm.bing.net/th?&id=OIP.M50e97f47972ef3bc792015763042c3a8o0&w=300&h=200&c=0&pid=1.9&rs=0&p=0&r=0');
 }  
 p.smallfont {
-  font-size: 3px;
+  font-size: 7px;
   color: white;
   text-decoration: none;
+  width: 700px;
+    max-width: 800px;
+    min-width: 300px;
+    overflow: hidden;
+    margin: auto;
+    padding: 5px;
+   text-align: left;
+  line-height: 25px;
 }
 .captionleft {
     width: 700px;
