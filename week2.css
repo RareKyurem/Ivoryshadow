@@ -82,6 +82,7 @@ h2.title {
   left: 33.5%;
   top: -2.5px;
   color: white;
+      z-index: 20
 }
 a#strawpoll {
   right: 215px;
