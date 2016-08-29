@@ -39,6 +39,7 @@
     <a href="https://rarekyurem.github.io/Kurite/newblogandaboutme.html">New Blog & About Me</a>
   </div>
 </div>		
+<?php include("header.php"); ?>
 	<h2 class = "title" >Week 1: Controversial Thoughts and Life</h2>
 		</div>
 <p class = "time"> Saturday, July 23th, 9:57 P.M. </p>
