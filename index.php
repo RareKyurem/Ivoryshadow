@@ -38,6 +38,7 @@
   </div>
 </div>
 </div>
+<?php include("includes/header.html");?>
 
 		<h2>Recent Blogs</h2>
 		<h3><a href = "https://rarekyurem.github.io/Kurite/week5-inconsiderate-peeps.html">Week 5: Inconsiderate Peeps</a></h3>
