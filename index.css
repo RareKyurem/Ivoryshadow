@@ -9,9 +9,11 @@ img.pictureinsertleft {
 }  
 h3.lefttitle {
     display: inline-block;
+    position: relative;
 }
 h3.righttitle {
    display: inline-block; 
+   position: relative;
 }
 .captionleft {
     width: 700px;
