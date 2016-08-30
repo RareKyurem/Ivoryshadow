@@ -1,6 +1,30 @@
 .dropbtn {
     color: black;
 }
+.pictureleft {
+    width: 700px;
+    max-width: 800px;
+    min-width: 300px;
+    overflow: hidden;
+    margin: auto;
+    padding: 5px;
+   text-align: left;
+  line-height: 25px;
+  font-size: 17px;
+}
+.pictureright {
+    width: 700px;
+    max-width: 800px;
+    min-width: 300px;
+    overflow: hidden;
+    margin: auto;
+    padding: 5px;
+   text-align: left;
+  line-height: 25px;
+  font-size: 17px;
+  position: relative;
+    left: 27%;
+}
 .dropdown {
     position: relative;
     display: inline-block;
