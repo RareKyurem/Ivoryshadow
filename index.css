@@ -2,11 +2,11 @@
     color: black;
 }
 .title {
-    font-size: 25px;
+    font-size: 1.5em;
 }
 p#space {
     font-size: 0.25em;
-    color: #FFFFFF;
+    color: black;
 }
 img.pictureinsertleft {
   position: relative;
