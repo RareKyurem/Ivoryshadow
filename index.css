@@ -4,6 +4,10 @@
 .title {
     font-size: 25px;
 }
+p#space {
+    font-size: 0.25em;
+    color: #FFFFFF;
+}
 img.pictureinsertleft {
   position: relative;
   left: -0.25%;
