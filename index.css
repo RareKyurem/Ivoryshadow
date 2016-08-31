@@ -1,6 +1,9 @@
 .dropbtn {
     color: black;
 }
+.title {
+    font-size: 25px;
+}
 img.pictureinsertleft {
   position: relative;
   left: -0.25%;
