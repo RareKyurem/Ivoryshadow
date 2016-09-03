@@ -8,6 +8,9 @@ p#space {
     font-size: 0.25em;
     color: black;
 }
+h3 {
+    text-align:left;
+}
 img.pictureinsertleft {
   position: relative;
   left: -0.25%;
