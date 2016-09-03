@@ -9,7 +9,9 @@ p#space {
     color: black;
 }
 h3 {
-    text-align:left;
+    text-align: left;
+    position: relative;
+    left: 30.5%;
 }
 img.pictureinsertleft {
   position: relative;
