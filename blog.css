@@ -63,18 +63,17 @@ h3 {
     border-left: 5px solid #FFFFFF;
 }
 .dropdown-content a {
-    color: black;
-    padding: 12px 16px;
-    text-decoration: none;
-    display: block;
-  text-align: left;
-  position: relative;
-  left: 26.75%;
-  top: 0px;
-  border-left: 5px solid #FFFFFF;
-  background-image:
-  url('https://cms-images.idgesg.net/images/article/2015/11/black-100630491-orig.jpg');
-}
+   			left: 27.5%;
+			padding: 12px 16px;
+			text-decoration: none;
+			display: block;
+			text-align: left;
+			position: relative;
+			top: 0px;
+			border-left: 5px solid #FFFFFF;
+			background-image:
+			url('https://cms-images.idgesg.net/images/article/2015/11/black-100630491-orig.jpg');
+			}
 .dropdown-content a:hover {
 background-color: #808080
 }
@@ -122,13 +121,6 @@ background-color: #808080
   margin-right: 20px;
   list-style-type: none;
   z-index:10;
-}
-h2.title {
-  text-align: center;
-  position: fixed;
-  left: 27%;
-  top: -2.5px;
-  color: white;
 }
 a#strawpoll {
   right: 215px;
