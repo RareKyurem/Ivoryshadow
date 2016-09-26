@@ -130,7 +130,7 @@ a#strawpoll {
 }
 a#previousblogs {
   position: fixed;
-  right: 95px;
+  right: 5.25%;
   font-weight: bold;
   top: 13px;
   color: white;
