@@ -8,6 +8,11 @@ p#space {
     font-size: 0.25em;
     color: black;
 }
+p.date {
+    text-align: left;
+    position: relative;
+    right: -31%;
+}
 h3 {
     text-align: left;
     position: relative;
