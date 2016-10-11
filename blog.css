@@ -212,7 +212,13 @@ h2.subscribe {
 	text-align:left;
 }
 label {
-	text-align:left;
+	    float: left;
+    color: white;
+    position: relative;
+    right: 0%;
+}
+input.required email {
+	position:relative;
 }
 h3 {
   color:white;
