@@ -189,6 +189,11 @@ div.pictures {
   right: 10px;
   bottom: 0px;
 }
+div.mc_embed_signup {
+	position: fixed;
+  left: 10px;
+  bottom: 0px;
+}
 h3 {
   color:white;
 }
