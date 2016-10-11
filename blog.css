@@ -201,6 +201,9 @@ div.mc_embed_signup {
 	padding: 0px 0px 0px 0px; 
 	margin: 0px 0px 0px 0px;
 }
+.button {
+	color:white;
+}
 h2.suscribe {
 	text-align:left;
 }
