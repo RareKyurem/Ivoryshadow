@@ -88,7 +88,7 @@ background-color: #808080
     min-width: 300px;
     overflow: hidden;
     margin: auto;
-    padding: 5px;
+    padding: 5px 0px 0px 0px;
    text-align: left;
   line-height: 25px;
   font-size: 17px;
