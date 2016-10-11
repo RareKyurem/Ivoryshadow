@@ -223,6 +223,9 @@ label {
 input {
     position: relative;
     right: 7%;
+	    background-color: black;
+    color: white;
+    font-family: Raleway;
 }
 h3 {
   color:white;
