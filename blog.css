@@ -193,6 +193,13 @@ div.mc_embed_signup {
 	position: fixed;
   left: 10px;
   bottom: 0px;
+	background:#000000; 
+	float:left; 
+	font:14px Raleway, Arial,sans-serif; 
+	width: 15%; 
+	display:flex; 
+	padding: 0px 0px 0px 0px; 
+	margin: 0px 0px 0px 0px;
 }
 h3 {
   color:white;
