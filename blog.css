@@ -211,6 +211,9 @@ div.mc_embed_signup {
 h2.subscribe {
 	text-align:left;
 }
+label {
+	text-align:left;
+}
 h3 {
   color:white;
 }
