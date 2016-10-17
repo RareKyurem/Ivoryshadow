@@ -8,6 +8,9 @@ img#pictureinsertleft {
     img.mainpicture{
         width:100%;
     }
+	img.icons{
+        width:10%;
+    }
 p.maintext {
     width: 100%;
     max-width: 100%;
