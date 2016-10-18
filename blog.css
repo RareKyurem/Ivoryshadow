@@ -11,10 +11,14 @@ img#pictureinsertleft {
 	img.icons{
         width:10%;
     }
+	mc_embed_signup {
+		z-index:10'
+	}
 p.maintext {
     width: 100%;
     max-width: 100%;
     min-width: 0%;
+	z-index:5;
 }
 }
 p.smallfont {
