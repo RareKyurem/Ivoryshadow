@@ -105,6 +105,9 @@ background-color: #808080
    text-align: left;
   line-height: 25px;
   font-size: 17px;
+	    position: relative;
+    left: 27%;
+}
 }
 .caption {
   font-style: italic;
