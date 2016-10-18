@@ -1,3 +1,15 @@
+@media screen and (max-width: 480px) {
+    img.mainpicture{
+        width:100%;
+    }
+	img.icons{
+        width:15%;
+    }
+p.maintext {
+    width: 100%;
+    max-width: 100%;
+    min-width: 0%;
+}
 .dropbtn {
     color: black;
 }
