@@ -6,18 +6,22 @@
         width:15%;
     }
 	a#previousblogs {
-  position: fixed;
-  right: 10%;
-}
-a#aboutme {
-  position: fixed;
-  right: 3%;
-}
-p.maintext {
-    width: 100%;
-    max-width: 100%;
-    min-width: 0%;
-}
+		  position: relative;
+		  right: 10%;
+		}
+	a#aboutme {
+	  position: relative;
+	  right: 3%;
+	}
+	p.maintext {
+	    width: 100%;
+	    max-width: 100%;
+	    min-width: 0%;
+	}
+	.title {
+		position:relative;
+		right:25%;
+	}
 }
 .dropbtn {
     color: black;
