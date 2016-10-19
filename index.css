@@ -24,12 +24,12 @@
 	    min-width: 0%;
 	}
 	.title {
-		position:fixed;
+		position: relative;
 		right:30% !important;
 	}
 	p.date {
 		    text-align: left;
-		    position: fixed;
+		    position: relative;
 		    right: 15% !important;
 }
 }
