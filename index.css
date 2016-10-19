@@ -8,11 +8,16 @@
 	a#previousblogs {
 		  position: relative;
 		  right: 20%;
+		font-weight: bold;
+		top:3%;
 		}
 	a#aboutme {
 	  position: relative;
 	  right: 0%;
+		font-weight: bold;
+		top:3%;
 	}
+	
 	p.maintext {
 	    width: 100%;
 	    max-width: 100%;
