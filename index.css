@@ -148,20 +148,6 @@ a#strawpoll {
   top: 13px;
   color: white;
 }
-a#previousblogs {
-  position: fixed;
-  right: 5.25%;
-  font-weight: bold;
-  top: 13px;
-  color: white;
-}
-a#aboutme {
-  position: fixed;
-  right: 15px;
-  font-weight: bold;
-  top: 13px;
-  color: white;
-}
 li {
   list-style-type: none;
   position: fixed;
