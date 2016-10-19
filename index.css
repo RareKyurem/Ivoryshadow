@@ -7,15 +7,15 @@
     }
 	a#previousblogs {
 		  position: relative;
-		  right: 20%;
+		  right: 15%;
 		font-weight: bold;
 		top:3%;
 		}
 	a#aboutme {
 	  position: relative;
-	  right: 0%;
+	  right: 15%;
 		font-weight: bold;
-		top:3%;
+		top:6%;
 	}
 	
 	p.maintext {
