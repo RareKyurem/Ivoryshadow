@@ -27,6 +27,11 @@
 		position:relative;
 		right:30%;
 	}
+	p.date {
+		    text-align: left;
+		    position: relative;
+		    right: -30%;
+}
 }
 .dropbtn {
     color: black;
