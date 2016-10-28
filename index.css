@@ -191,3 +191,17 @@ div.pictures {
   right: 10px;
   bottom: 0px;
 }
+a#previousblogs {
+  position: fixed;
+  right: 5.25%;
+  font-weight: bold;
+  top: 13px;
+  color: white;
+}
+a#aboutme {
+  position: fixed;
+  right: 15px;
+  font-weight: bold;
+  top: 13px;
+  color: white;
+}
