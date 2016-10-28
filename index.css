@@ -5,19 +5,6 @@
 	img.icons{
         width:15%;
     }
-	a#previousblogs {
-		  position: relative;
-		  right: 15%;
-		font-weight: bold;
-		top:3%;
-		}
-	a#aboutme {
-	  position: relative;
-	  right: 15%;
-		font-weight: bold;
-		top:6%;
-	}
-	
 	p.maintext {
 	    width: 100%;
 	    max-width: 100%;
