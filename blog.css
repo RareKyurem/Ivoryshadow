@@ -22,8 +22,12 @@ p.maintext {
 }
 }
 p.sub-title {
-	text-decoration: bold;
-	font-weight:22px;
+	font-weight:bold;
+	font-size: 20px;
+    position: relative;
+	width: 700px;
+    max-width: 800px;
+    min-width: 200px;
 }
 .captionleft {
     width: 700px;
